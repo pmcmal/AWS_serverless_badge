@@ -10,3 +10,5 @@ This Learning Plan is designed to help builders design serverless solutions on A
  
 
 Earn an AWS digital badge, issued through Credly, that you can share with your network by scoring 80% or higher on the assessment in this Learning Plan. The assessment evaluates your skills and knowledge based on the summative objectives of this Learning Plan. As the courses in this plan provide the content covered in the assessment, we recommend completing these courses as needed to complement your current experience and knowledge.
+
+![pobrane](https://github.com/pmcmal/AWS_serverless_badge/assets/89246706/165a1838-c95d-4e18-8d57-ca2f6335e2e9)
